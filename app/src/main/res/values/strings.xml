@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab11WeatherAPI</string>
+    <string name="LabCity">City:</string>
+    <string name="LabQuery">Query</string>
+    <string name="labApi">Введите ключ API:</string>
+</resources>
